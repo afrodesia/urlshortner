@@ -1,4 +1,4 @@
-## Laravel PHP Framework Boilerplate
+## URL Shortner
 
-This is a starting point for my custom laravel development.
+Laravel url shortner.
 
